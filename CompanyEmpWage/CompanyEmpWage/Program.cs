@@ -7,15 +7,19 @@ namespace CompanyEmpWage
         static void Main(string[] args)
         {
             Console.WriteLine("Employee Wage Calculation for different Companies");
-            EmployeeWage employeeWage = new EmployeeWage();
-            employeeWage.CalculateEmployeeAttendance();
-            employeeWage.CalculateDaillyEmpWage();
-            employeeWage.PartTimeWage();
-            employeeWage.EmpWageinswitch();
-            employeeWage.EmpWagePerMonth();
-            employeeWage.EmpWageinCondition();
-            EmployeeWage.CalculationEmpWage();
+
+            Company company1 = new Company("DMart",15,4,100) ;      //Companyname,wageperhr,workingdays,maxhrs
+            Company company2 = new Company("Reliance", 20, 4, 80);
+            Company company3 = new Company("Apple", 25, 5, 60);
+
+            Console.WriteLine("Enter company name to get Total Wage : ");
+            var name = Console.ReadLine();
             
+            int total = EmployeeWage.getTotalWage(name);
+            Console.WriteLine("Total wage for " + name + " is " + total);
+
+
+
         }
     }
 }
