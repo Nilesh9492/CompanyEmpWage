@@ -1,0 +1,14 @@
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\bin\Debug\netcoreapp3.1\CompanyEmpWage.exe
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\bin\Debug\netcoreapp3.1\CompanyEmpWage.deps.json
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\bin\Debug\netcoreapp3.1\CompanyEmpWage.runtimeconfig.json
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\bin\Debug\netcoreapp3.1\CompanyEmpWage.runtimeconfig.dev.json
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\bin\Debug\netcoreapp3.1\CompanyEmpWage.dll
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\bin\Debug\netcoreapp3.1\CompanyEmpWage.pdb
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\obj\Debug\netcoreapp3.1\CompanyEmpWage.csproj.AssemblyReference.cache
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\obj\Debug\netcoreapp3.1\CompanyEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\obj\Debug\netcoreapp3.1\CompanyEmpWage.AssemblyInfoInputs.cache
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\obj\Debug\netcoreapp3.1\CompanyEmpWage.AssemblyInfo.cs
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\obj\Debug\netcoreapp3.1\CompanyEmpWage.csproj.CoreCompileInputs.cache
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\obj\Debug\netcoreapp3.1\CompanyEmpWage.dll
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\obj\Debug\netcoreapp3.1\CompanyEmpWage.pdb
+H:\C#\Assignment Day9\CompanyEmpWage\CompanyEmpWage\obj\Debug\netcoreapp3.1\CompanyEmpWage.genruntimeconfig.cache
